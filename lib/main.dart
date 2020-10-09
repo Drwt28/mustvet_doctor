@@ -1,3 +1,4 @@
+import 'package:doctor/Screens/DoctorRegistration.dart';
 import 'package:doctor/src/pages/AcceptCallScreen.dart';
 import 'package:flutter/material.dart';
 
@@ -48,7 +49,7 @@ class AcceptCallScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      home: _AlarmHomePage(title: 'Flutter Demo Home Page'),
+      home: DoctorRegistration(),
     );
   }
 }
