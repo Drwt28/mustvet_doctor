@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "264738063314",
+    "firebase_url": "https://mustvet-d4d77.firebaseio.com",
+    "project_id": "mustvet-d4d77",
+    "storage_bucket": "mustvet-d4d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264738063314:android:6c557a5ef18b469c8a7e0b",
+        "android_client_info": {
+          "package_name": "com.gritfusion.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264738063314-c0m0vq1kvrle610uemls7nq39m0uqkac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Adr75N8NadButha6BvGn2yulx6IMasY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264738063314-c0m0vq1kvrle610uemls7nq39m0uqkac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264738063314-g8b7h95o2a96lk9a8ukde7ff51q5b9nk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agno"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264738063314:android:f90cf7cc95fbb53f8a7e0b",
+        "android_client_info": {
+          "package_name": "com.gritfusion.pet_own"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264738063314-c0m0vq1kvrle610uemls7nq39m0uqkac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Adr75N8NadButha6BvGn2yulx6IMasY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264738063314-c0m0vq1kvrle610uemls7nq39m0uqkac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264738063314-g8b7h95o2a96lk9a8ukde7ff51q5b9nk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agno"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
